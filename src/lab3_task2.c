@@ -1,7 +1,7 @@
 /*
  * Lab 3, Task 2
  * Name: <Sude Kucukoglu>
- * Student ID: <125ADB136>
+ * Student ID: <251ADB136>
  *
  * Practice using pointers as function parameters.
  * Implement:
